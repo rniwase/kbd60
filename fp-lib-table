@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USON_extra")(type "KiCad")(uri "${KIPRJMOD}/mod/USON_extra.pretty")(options "")(descr ""))
+)
